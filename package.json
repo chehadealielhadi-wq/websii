@@ -1,0 +1,13 @@
+{
+  "name": "palina-resort",
+  "type": "module",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.0",
+    "express": "^4.19.2",
+    "twilio": "^4.21.0"
+  }
+}
