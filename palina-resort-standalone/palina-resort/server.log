@@ -1,0 +1,5 @@
+
+> palina-resort@1.0.0 start
+> node server/index.js
+
+Server running on port 3000

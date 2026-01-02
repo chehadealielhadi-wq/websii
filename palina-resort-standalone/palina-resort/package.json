@@ -1,0 +1,17 @@
+{
+  "name": "palina-resort",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server/index.js",
+    "install-all": "npm install && cd client && npm install",
+    "build-client": "cd client && npm run build"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.0",
+    "exceljs": "^4.4.0",
+    "express": "^4.19.2",
+    "twilio": "^4.21.0"
+  }
+}
